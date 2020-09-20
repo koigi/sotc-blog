@@ -4,7 +4,8 @@ themesDir = "themes"
 theme = "hugo-hero-theme"
 title = "Sites on the Cloud Blog"
 
-
+[params]
+  google_analytics_id="UA-167514883-3"
 
 [params.homepage_meta_tags]
     meta_description = "Reliable and affordable websites and hosting that won't break the bank. All supported by the power of the cloud. "
@@ -13,6 +14,3 @@ title = "Sites on the Cloud Blog"
     meta_og_url = "https://sitesonthecloud.com.au/blog"
     meta_og_image = "https://www.sitesonthecloud.com.au/assets/images/logo-transparent.png"
     meta_og_description = "Reliable and affordable websites and hosting that won't break the bank. All supported by the power of the cloud. "
-
-[params]
-  google_analytics_id="UA-167514883-3"
