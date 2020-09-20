@@ -7,12 +7,12 @@ title = "Sites on the Cloud Blog"
 
 
 [params.homepage_meta_tags]
-    meta_description = "a description of your website."
-    meta_og_title = "My Theme"
-    meta_og_type = "website"
-    meta_og_url = "https://www.mywebsite.com"
-    meta_og_image = "https://www.mywebsite.com/images/tn.png"
-    meta_og_description = "a description of your website."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@mytwitterhandle"
-    meta_twitter_creator = "@mytwitterhandle"
+    meta_description = "Reliable and affordable websites and hosting that won't break the bank. All supported by the power of the cloud. "
+    meta_og_title = "Sites on the Cloud"
+    meta_og_type = "Blog"
+    meta_og_url = "https://sitesonthecloud.com.au/blog"
+    meta_og_image = "https://www.sitesonthecloud.com.au/assets/images/logo-transparent.png"
+    meta_og_description = "Reliable and affordable websites and hosting that won't break the bank. All supported by the power of the cloud. "
+
+[params]
+  google_analytics_id="UA-167514883-3"
